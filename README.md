@@ -1,2 +1,2 @@
 # Tableau-projects
-All projects created in Tableau software
+All projects created in Tableau software related to Tables, Bar chart, Line chart and the Pie chart.
